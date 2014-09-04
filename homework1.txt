@@ -1,0 +1,20 @@
+William Kim
+CSCI104
+Professor Kempe
+9/5/2014
+Homework 1
+Problem 1
+A) Looking up information, talking to classmates, and asking the staff for help is ok at all times. 
+B) vim, eclipse, emacs, Visual Studio
+C) Each Student can submit up to 3 homeworks a day late for full credit
+D) There is an hour grace period per assignment for 50% credit
+E) I can use any compiler I want, but the submission has to work with g++ on the course VM in the end
+Problem 2
+A) GitBash, Terminal
+B) 1. git add hw1q2b.cpp
+	git commit -m “adding a file”
+     2. git log --max-count=3
+C) git will commit the 3 files staged to be committed to the repository, but until git push is used will not upload it to github
+Problem 3
+	check
+
